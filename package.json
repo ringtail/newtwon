@@ -1,0 +1,22 @@
+{
+  "name": "newtwon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ringtail/newtwon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ringtail/newtwon/issues"
+  },
+  "homepage": "https://github.com/ringtail/newtwon#readme",
+  "dependencies": {
+    "botkit": "^0.2.0"
+  }
+}
