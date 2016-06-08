@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/ringtail/newtwon#readme",
   "dependencies": {
-    "botkit": "^0.2.0"
+    "botkit": "^0.2.0",
+    "mocha": "^2.5.3",
+    "request": "^2.72.0"
   }
 }
