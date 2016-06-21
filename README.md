@@ -1,5 +1,5 @@
 ## About newtwon
-<img src="http://moyuan.oss-cn-beijing.aliyuncs.com/others/iblbwe01046912.jpg"/>
+<img src="http://moyuan.oss-cn-beijing.aliyuncs.com/others/iblbwe01046912.jpg" witdh=60px height=60px/></br>
 newtwon is my slack robot, you can talk to him when you are boring.   
 ## Usage
 simply deploy it to anywhere with docker.
@@ -27,7 +27,7 @@ key=<TUNLING_API_KEY>  token=<SLACK_TOKEN> node index.js
 ```
 
 ## Demonstration
-<img src="http://moyuan.oss-cn-beijing.aliyuncs.com/others/iblbwe01046912.jpg"/>
+<img src="http://moyuan.oss-cn-beijing.aliyuncs.com/others/85e3ac1194620666f826e9bbdef6dc32.png"/>
 
 ## links  
 tuling Api: tuling123.com
