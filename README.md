@@ -1,7 +1,7 @@
 ## About newtwon
 newtwon is my slack robot, you can talk to him when you are boring.   
 ## Usage
-simply deploy it to anywhere
+simply deploy it to anywhere with docker.
 
 ```
 netwon:
