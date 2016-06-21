@@ -11,9 +11,11 @@ netwon:
         - debug=true
         - key=<TUNLING_API_KEY>
         - token=<SLACK_TOKEN>
+```
 
 or simply run with docker 
 
+```
 docker run -d -e key=<TUNLING_API_KEY> -e token=<SLACK_TOKEN>  -e debug=true --name newtwon registry.aliyuncs.com/ringtail/newtwon:latest
 ```
 
