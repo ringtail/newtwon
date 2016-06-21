@@ -19,7 +19,11 @@ or simply run with docker
 docker run -d -e key=<TUNLING_API_KEY> -e token=<SLACK_TOKEN>  -e debug=true --name newtwon registry.aliyuncs.com/ringtail/newtwon:latest
 ```
 
+## Run in local 
 
+```
+key=<TUNLING_API_KEY>  token=<SLACK_TOKEN> node index.js
+```
 
 ## links  
 tuling Api: tuling123.com
