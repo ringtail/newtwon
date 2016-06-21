@@ -4,7 +4,7 @@ newtwon is my slack robot, you can talk to him when you are boring.
 simply deploy it to anywhere with docker.
 
 ```
-netwon:
+newton:
     image: registry.aliyuncs.com/ringtail/newtwon:latest
     restart: always
     environment:
