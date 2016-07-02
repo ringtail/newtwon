@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node_modules/mocha/bin/mocha tests"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,10 @@
   },
   "homepage": "https://github.com/ringtail/newtwon#readme",
   "dependencies": {
+    "async": "^1.5.2",
     "botkit": "^0.2.0",
+    "chai": "^3.5.0",
+    "html-entities": "^1.2.0",
     "mocha": "^2.5.3",
     "request": "^2.72.0",
     "sync-request": "^3.0.1"
